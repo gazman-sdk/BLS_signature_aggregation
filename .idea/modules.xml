@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLS Signature Aggregation.iml" filepath="$PROJECT_DIR$/.idea/modules/BLS Signature Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation.iml" filepath="$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation_main.iml" group="BLS_Signature_Aggregation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BLS_Signature_Aggregation_test.iml" group="BLS_Signature_Aggregation" />
+    </modules>
+  </component>
+</project>
